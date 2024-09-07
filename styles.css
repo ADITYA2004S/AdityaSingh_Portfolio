@@ -1,3 +1,7 @@
+
+
+
+
 /*===============
   global styles
 ===============*/
@@ -295,6 +299,7 @@ main {
   text-align: center;
   box-shadow: var(--shadow);
   transition: transform 0.2s linear;
+  margin-top:5rem;
 }
 
 .project:hover {
